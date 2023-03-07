@@ -110,7 +110,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:adel-gu/react-rails-helloworld.git
+  git clone https://github.com/Khaled-AlKhateeb/my_rr_app.git
 ```
 
 
